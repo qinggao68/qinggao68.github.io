@@ -5,7 +5,7 @@ author: Christina
 # categories: [ Jekyll, tutorial ]
 # tags: [red, yellow]
 categories: [ Project ]
-image: assets/images/web_scrape1.png
+image: assets/images/news_article.png
 description: ""
 featured: true
 hidden: true
