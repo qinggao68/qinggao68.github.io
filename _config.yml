@@ -2,8 +2,8 @@
 name: "Christina Gao"
 title: "Christina Gao"
 description: ""
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/liulian.jpg'
+favicon: 'assets/images/liulian.jpg'
 baseurl: ''
 google_analytics: 'UA-177421836-1'
 disqus: 'demowebsite'
@@ -16,7 +16,7 @@ authors:
   Christina:
     name: Christina Gao
     display_name: Christina Gao
-    avatar: assets/images/avatar.png
+    avatar: assets/images/liulian.jpg
     email: christina.gaoqq@gmail.com
     web: https://www.wowthemes.net
     LinkedIn: https://www.linkedin.com/in/christina-gaoqq/

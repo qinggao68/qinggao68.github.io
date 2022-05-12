@@ -5,6 +5,15 @@ permalink: /about
 comments: false
 ---
 
+<!-- <p> -->
+
+I am an experienced M&A professional that is also passionate about Machine Learning & analytics. I am a big fan of attempts to explain complex concepts through visualization. That's why I like to deploy the final product of my projects in a web application that is hosted on Shiny Server. I am also very comfortable dealing with complex datasets.
+
+This website is currently in development; I still have a couple of blogs to write about on the independent projects that I worked on listed on my Github. Please access my Github if you are interested in reading about other projects that I did. 
+
+Hope, you find the blogs interesting. Thank you for taking the time to read them. 
+<!-- </p> -->
+
 <!-- <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
