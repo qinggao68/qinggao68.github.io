@@ -5,7 +5,7 @@ author: Christina
 # categories: [ Jekyll, tutorial ]
 # tags: [red, yellow]
 categories: [ Project ]
-image: assets/images/web_scrape1.png
+image: assets/images/web_scape.jpg
 description: ""
 featured: true
 hidden: true
@@ -14,26 +14,32 @@ comments: false
 
 # Web Scraping Demo
 
+I did this web scraping project on the Car Wash Chains & Auto Detailing industry; this web scraping project can be applicable to any industry. I hope this demo and the market expansion analysis project that I did would provide support during the deal sourcing stage. 
+
 You can view the app version of this project, which I built and is hosted on the Shiny Server. Please access it through this link: 
 
 [Web Scraping Project](https://christina-gao.shinyapps.io/Web_Scraping_Project/)
 
+---
 
 ## Part 1 - Scraping News Articles 
 
-In Part 1, I used 2 packages in Python to scrape news articles relating to Car Wash Chains Industry Trends in the U.S.. The packages I used are Ntlk and Newspaper3k. Within a few lines of codes, I was able to extract and retrieved the title, author(s), date published, the full article in text, a summary, and top keywords. This is a relatively simple Neural Language Processing(NLP) I am using, but the main idea behind NLP is that it is using language models to map words into vector component and that's why it was able to correctly retrieved the information I need. 
+In Part 1, I used 2 packages in Python to scrape news articles relating to the Car Wash Chains Industry Trends in the U.S.. The packages I used are Ntlk and Newspaper3k. Within a few lines of codes, I was able to extract and retrieved the title, author(s), date published, the full article in text, a summary, and top keywords. 
+
+Note: This is a relatively simple Neural Language Processing(NLP) I am using, but the main idea behind NLP is that it is using language models to map words into vector component and that's why it was able to correctly retrieved the information I need. 
+
 
 <figure align="center">
-  <img width="1500" height="700" src="/assets/images/news_article.png">
+  <img width="1800" height="700" src="/assets/images/news_article.png">
   <figcaption>Selected News Articles</figcaption>
 </figure>
 
 ## Part 2 - Scraping A List of Top Car Wash Chains 
 
-In this section, I used rvest package in R to scrape a list of top 50 car wash chains I found on carwash.com. This scraping can also be done using packages like BeautifulSoup in Python. 
+In this section, I used the rvest package in R to scrape a list of top 50 car wash chains I found on carwash.com. This scraping can also be done using packages like BeautifulSoup in Python. 
 
 <figure align="center">
-  <img width="1200" height="600" src="/assets/images/top50_list.png">
+  <img width="1200" height="700" src="/assets/images/top50_list.png">
   <figcaption>Top 50 Car Wash Chains in the U.S.</figcaption>
 </figure>
 
